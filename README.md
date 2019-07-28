@@ -8,7 +8,7 @@ This is a [bot de Telegram](https://telegram.org/faq#bots) based in plugins wrot
 Matebot por sua vez é clonado de [CryptoForexBot](https://github.com/desci/tg-cryptoforexbot).  
 Todos estes bots são inspirados na [Paloma](https://notabug.org/desci/Paloma), originalmente um bot de IRC inspirado na [lalenia](http://wiki.nosdigitais.teia.org.br/Lalenia), que é um [supybot](https://github.com/Supybot). Viva o software livre.  
 
-Uso
+How to use
 ---
 
 Chame o bot em [@mate_obot](https://t.me/mate_obot) para ver a lista de comandos.  
