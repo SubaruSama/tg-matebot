@@ -1,10 +1,10 @@
 MateBot
 ===
 
-O que
+What
 ---
 
-Este é um [bot de Telegram](https://telegram.org/faq#bots) baseado em plugins escrito em [Python](https://python.org) para o hackerspace [Matehackers](https://matehackers.org).  
+This is a [bot de Telegram](https://telegram.org/faq#bots) based in plugins wrote in [Python](https://python.org) to the hackerspace [Matehackers](https://matehackers.org).  
 Matebot por sua vez é clonado de [CryptoForexBot](https://github.com/desci/tg-cryptoforexbot).  
 Todos estes bots são inspirados na [Paloma](https://notabug.org/desci/Paloma), originalmente um bot de IRC inspirado na [lalenia](http://wiki.nosdigitais.teia.org.br/Lalenia), que é um [supybot](https://github.com/Supybot). Viva o software livre.  
 
